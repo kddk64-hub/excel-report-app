@@ -2,3 +2,4 @@ streamlit
 openpyxl
 pandas
 reportlab
+PyMuPDF==1.26.7
